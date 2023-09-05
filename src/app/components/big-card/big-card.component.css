@@ -27,3 +27,8 @@
     width: 100%;
     min-width: 400px;
 }
+
+.big-card__title > h1 > a{
+    font-family: 'Chinese Rocks Rg', sans-serif;
+
+}

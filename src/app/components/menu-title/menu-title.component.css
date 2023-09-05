@@ -8,7 +8,8 @@
     font-size: 135px;
     display: flex;
     justify-content: center;
-    font-family: 'segoe UI';
+    font-family: 'Chinese Rocks Rg', sans-serif;
+                                                
 }
     
 .container__menu-title > hr{

@@ -3,3 +3,9 @@ header{
     margin-top: 15px;
     justify-content: center;
 }
+
+*{
+    font-family: 'Chinese Rocks' sans-serif;
+}
+
+@import url('https://fonts.cdnfonts.com/css/chinese-rocks');
